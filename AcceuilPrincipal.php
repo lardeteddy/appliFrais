@@ -1,6 +1,6 @@
 <?php
 /** 
- * Page d'accueil de l'application web AppliFrais
+ * Page d'acccueil de l'application web AppliFrais
  * @package default
  * @todo  RAS
  */
